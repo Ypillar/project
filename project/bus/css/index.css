@@ -1,0 +1,291 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+p,
+blockquote,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+pre,
+form,
+fieldset,
+legend,
+button,
+input,
+textarea,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+.box {
+  width: 100%;
+  height: 100%;
+}
+.center {
+  position: relative;
+  width: 500px;
+  height: 1170px;
+  margin: 20px auto;
+  background: #1f0602;
+}
+.center .boder-center {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  width: 400px;
+  height: 900px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 0px 0px 15px #080808 inset;
+}
+.center .boder-center .center-box {
+  width: 380px;
+  height: 140px;
+  margin-left: 10px;
+}
+.center .boder-center .center-box h1 {
+  color: #d80404;
+  font-size: 60px;
+  text-align: center;
+  margin: 10px auto;
+}
+.center .boder-center .center-box h5 {
+  color: #d80404;
+  font-size: 20px;
+  text-align: center;
+  margin: 0px auto;
+}
+.center .boder-center .decorate {
+  width: 396px;
+  height: 30px;
+  background: #1f0602;
+  box-shadow: 0 0 10px black;
+  margin-left: 2px;
+}
+.center .boder-center .center-box {
+  width: 380px;
+  height: 140px;
+  margin-left: 10px;
+}
+.center .boder-center .center-box h1 {
+  color: #d80404;
+  font-size: 60px;
+  text-align: center;
+  margin: 10px auto;
+}
+.center .boder-center .center-box h5 {
+  color: #d80404;
+  font-size: 20px;
+  text-align: center;
+  margin: 0px auto;
+}
+.center .boder-center .information-box {
+  width: 380px;
+  height: 140px;
+  margin-left: 10px;
+  height: 200px;
+}
+.center .boder-center .information-box h1 {
+  color: #d80404;
+  font-size: 60px;
+  text-align: center;
+  margin: 10px auto;
+}
+.center .boder-center .information-box h5 {
+  color: #d80404;
+  font-size: 20px;
+  text-align: center;
+  margin: 0px auto;
+}
+.center .boder-center .information-box h1 {
+  color: #d80404;
+  font-size: 60px;
+  text-align: center;
+  margin: 10px auto;
+}
+.center .boder-center .information-box h5 {
+  color: #d80404;
+  font-size: 20px;
+  text-align: center;
+  margin: 0px auto;
+}
+.center .boder-center .information-box .information-center {
+  width: 380px;
+  height: 140px;
+  margin-left: 10px;
+  height: 150px;
+  margin: 0;
+}
+.center .boder-center .information-box .information-center h1 {
+  color: #d80404;
+  font-size: 60px;
+  text-align: center;
+  margin: 10px auto;
+}
+.center .boder-center .information-box .information-center h5 {
+  color: #d80404;
+  font-size: 20px;
+  text-align: center;
+  margin: 0px auto;
+}
+.center .boder-center .information-box .information-center h1 {
+  color: #d80404;
+  font-size: 60px;
+  text-align: center;
+  margin: 10px auto;
+}
+.center .boder-center .information-box .information-center h5 {
+  color: #d80404;
+  font-size: 20px;
+  text-align: center;
+  margin: 0px auto;
+}
+.center .boder-center .information-box .information-center .s-box {
+  width: 100%;
+  height: 60px;
+}
+.center .boder-center .information-box .information-center .s-box div {
+  position: relative;
+  float: left;
+  height: 32px;
+  width: 50%;
+}
+.center .boder-center .information-box .information-center .s-box div h1 {
+  font-size: 30px;
+  margin: 0;
+  color: #000000;
+  font-weight: 700;
+}
+.center .boder-center .information-box .information-center .s-box div h6 {
+  text-align: center;
+  font-size: 2px;
+}
+.center .boder-center .information-box .information-center .s-box div .one {
+  position: absolute;
+  width: 30px;
+  display: inline-block;
+  top: 15px;
+  color: #0791e2;
+  font-weight: bold;
+}
+.center .boder-center .information-box .information-center .s-box div .strip {
+  width: 100%;
+  height: 1px;
+  background: #0791e2;
+}
+.center .boder-center .information-box .information-center .s-box div .two {
+  color: #bb0707;
+  font-size: 31px;
+  font-weight: 700;
+  position: absolute;
+  width: 141px;
+  display: inline-block;
+  top: 0px;
+  margin-left: 25px;
+}
+.center .boder-center .information-box .information-center .s-box .left-xz {
+  width: 30px;
+}
+.center .boder-center .information-box .information-center .s-box .right-cs {
+  position: absolute;
+  right: 0;
+  width: 90%;
+  top: 16px;
+}
+.center .boder-center .information-box .information-center .z-box {
+  width: 100%;
+  height: 65px;
+}
+.center .boder-center .information-box .information-center .z-box .shuli2 {
+  font-size: 14px;
+  float: left;
+  margin: 0 auto;
+  width: 20px;
+}
+.center .boder-center .information-box .information-center .z-box .shuli3 {
+  font-size: 14px;
+  float: left;
+  margin: 0 auto;
+  width: 20px;
+}
+.center .boder-center .information-box .information-center .z-box .shuli4 {
+  font-size: 14px;
+  float: left;
+  margin: 0 auto;
+  width: 20px;
+}
+.center .boder-center .information-box .information-center .x-box {
+  width: 100%;
+  height: 35px;
+}
+.center .boder-center .information-box .information-center .x-box .xx-box {
+  color: #b90101;
+  font-size: 16px;
+  text-align: center;
+  font-weight: 700;
+}
+.center .boder-center .information-box .information-center .x-box .xxx-box {
+  position: relative;
+  margin: 0 25px;
+  float: left;
+  width: 100%;
+  height: 2px;
+}
+.center .boder-center .information-box .information-center .x-box .xxx-box .inline {
+  float: left;
+  width: 40%;
+  height: 2px;
+  background: #c10606;
+  position: absolute;
+  top: 9px;
+  left: -10px;
+}
+.center .boder-center .information-box .information-center .x-box .xxx-box .text {
+  position: absolute;
+  left: 154px;
+  float: left;
+  width: 30px;
+  height: 20px;
+  color: #c10606;
+  font-size: 16px;
+  font-weight: 700;
+}
+.center .boder-center .information-box .information-center .x-box .xxx-box .inline1 {
+  float: left;
+  width: 40%;
+  height: 2px;
+  background: #c10606;
+  position: absolute;
+  top: 9px;
+  right: 40px;
+}
+.center .boder-center .information-box .information-bottom {
+  width: 396px;
+  height: 30px;
+  background: #1f0602;
+  box-shadow: 0 0 10px black;
+  margin-left: 2px;
+  margin-top: 15px;
+  margin-left: -8px;
+  background: #0791e2;
+  box-shadow: 0 0 0 black;
+}
+.center .boder-center .bottom-j {
+  width: 100%;
+  height: 250px;
+  background: white;
+}
