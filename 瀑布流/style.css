@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.box{
+	min-width: 1200px;
+}
+
+#tit{
+	    width: 600px;
+    margin: 20px auto;
+    text-align: center;
+
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
+
+/*图片展示区域*/
+
+.photo-box{
+	width: 1200px;
+	height: auto;
+	margin: 0 auto;
+    position: relative;
+}
+
+li {
+    width: 280px;
+    height: auto;
+    padding: 10px;
+    border: none;
+    float: left;
+    display: inline-block;
+}
+.info {
+    width: 280px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 11px #666;
+    background: #fff;
+}
+.pic {
+    width: 260px;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+.title {
+    width: 260px;
+    height: 40px;
+    margin: 0 auto;
+    line-height: 40px;
+    text-align: center;
+    color: #666;
+    font-size: 18px;
+    font-weight: bold;
+    overflow: hidden;
+}
+img {
+    width: 260px;
+    border-radius: 3px;
+}
+a {
+    text-decoration: none;
+    color: #444;
+}

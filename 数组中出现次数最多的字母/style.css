@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    min-width: 600px;
+}
+
+
+/*显示内容的盒子*/
+
+.box {
+    width: 640px;
+    height: 465px;
+    background: rgba(3, 169, 244, 0.44);
+    margin: 30px auto;
+}
+
+.box span {
+    display: block;
+    width: 600px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.box .result {
+    width: 600px;
+    height: 100px;
+    background: #ffffff;
+    border: 1px solid #B5B2B2;
+    margin: 10px auto;
+}
+
+
+/*查询按钮*/
+
+.query {
+    width: 100px;
+    height: 25px;
+    background: red;
+    color: #ffffff;
+    font-size: 16px;
+    display: block;
+    text-align: center;
+    
+    margin: 0 auto;
+    border: 1px solid #8A8A8C;
+    line-height: 25px;
+}

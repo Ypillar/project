@@ -1,0 +1,106 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    color: rgb(255, 0, 153);
+    font-size: 12px;
+}
+
+body {
+    background-color: #0D7792;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+tr {
+    margin: 3px;
+}
+
+td {
+    font-size: 12px;
+    margin: 3px;
+}
+
+textarea {
+    padding: 3px;
+}
+
+input {
+    margin: 4px
+}
+
+.photo {
+    width: 180px;
+    height: 76px;
+}
+
+.body1 {
+    margin-top: 10px;
+    width: 710px;
+    border-radius: 30px;
+    background-color: white;
+    margin: 10px auto 20px auto;
+}
+
+.body2 {
+    width: 90%;
+    margin: 5px auto;
+}
+
+.header {
+    width: 710px;
+}
+
+.header1 {
+    margin-top: 10px;
+    float: left;
+}
+
+.header2 {
+    display: inline-block;
+    margin-top: 62px;
+    margin-left: 324px;
+}
+
+.spacing {
+    margin-left: 2px;
+    display: inline;
+}
+
+.register {
+    display: block;
+    width: ;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.format {
+    margin: 2px;
+    width: 248px;
+}
+
+.format1 {
+    margin: 2px;
+}
+
+.format2 {
+    margin: 2px;
+}
+
+.submit {
+    padding: 2px;
+    width: 90px;
+}
+
+.copyright {
+    display: block;
+    width: 90%;
+    font-size: 12px;
+    text-align: center;
+}
